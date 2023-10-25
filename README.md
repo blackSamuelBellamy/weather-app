@@ -32,6 +32,6 @@ import 'dotenv/config'
 ```
 * y finalmente ejecutar la aplicación con 
 ```
-npm app
+node app
 ```
 
